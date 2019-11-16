@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/robolist/static/css/main.1d4d5ee6.chunk.css",
-    "main.js": "/robolist/static/js/main.a842c8fc.chunk.js",
-    "main.js.map": "/robolist/static/js/main.a842c8fc.chunk.js.map",
+    "main.js": "/robolist/static/js/main.9791f111.chunk.js",
+    "main.js.map": "/robolist/static/js/main.9791f111.chunk.js.map",
     "runtime-main.js": "/robolist/static/js/runtime-main.a7397b63.js",
     "runtime-main.js.map": "/robolist/static/js/runtime-main.a7397b63.js.map",
-    "static/js/2.dc253644.chunk.js": "/robolist/static/js/2.dc253644.chunk.js",
-    "static/js/2.dc253644.chunk.js.map": "/robolist/static/js/2.dc253644.chunk.js.map",
+    "static/js/2.47dab06d.chunk.js": "/robolist/static/js/2.47dab06d.chunk.js",
+    "static/js/2.47dab06d.chunk.js.map": "/robolist/static/js/2.47dab06d.chunk.js.map",
     "index.html": "/robolist/index.html",
-    "precache-manifest.2074d9f884dfac77e7f855d961857284.js": "/robolist/precache-manifest.2074d9f884dfac77e7f855d961857284.js",
+    "precache-manifest.292cfbcab06c32a136a64441698534e9.js": "/robolist/precache-manifest.292cfbcab06c32a136a64441698534e9.js",
     "service-worker.js": "/robolist/service-worker.js",
     "static/css/main.1d4d5ee6.chunk.css.map": "/robolist/static/css/main.1d4d5ee6.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a7397b63.js",
-    "static/js/2.dc253644.chunk.js",
+    "static/js/2.47dab06d.chunk.js",
     "static/css/main.1d4d5ee6.chunk.css",
-    "static/js/main.a842c8fc.chunk.js"
+    "static/js/main.9791f111.chunk.js"
   ]
 }

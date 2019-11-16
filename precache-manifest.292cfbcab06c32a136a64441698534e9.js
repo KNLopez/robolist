@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fc3aa0e74d1055c983bd379bc90f596",
+    "revision": "bf8d5e241c34fc8e9d7c59d8b7b80128",
     "url": "/robolist/index.html"
   },
   {
-    "revision": "66e39f27f63dc3fa7b61",
+    "revision": "b1d090c612fa80df5da6",
     "url": "/robolist/static/css/main.1d4d5ee6.chunk.css"
   },
   {
-    "revision": "5a1f89e74b4df36cd542",
-    "url": "/robolist/static/js/2.dc253644.chunk.js"
+    "revision": "11d6b20c4a205eefcfd1",
+    "url": "/robolist/static/js/2.47dab06d.chunk.js"
   },
   {
-    "revision": "66e39f27f63dc3fa7b61",
-    "url": "/robolist/static/js/main.a842c8fc.chunk.js"
+    "revision": "b1d090c612fa80df5da6",
+    "url": "/robolist/static/js/main.9791f111.chunk.js"
   },
   {
     "revision": "03c1adcc682ebc00213d",
